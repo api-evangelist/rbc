@@ -1,0 +1,30 @@
+# Royal Bank of Canada (RBC)
+
+> Royal Bank of Canada (RBC) is Canada's largest bank by market capitalization and one of the country's Big Six. RBC was the first Canadian bank to open a public API developer portal (developer.rbc.com), offering self-serve informational/utility APIs alongside a partner-gated Business Banking API suite for corporate treasury integration. RBC exposes no first-party open-banking consumer-data API; consumer data sharing is aggregator-based, and Canada's federal Consumer-Driven Banking framework is legislated but not yet operational. No public OpenAPI/Swagger definition is downloadable — the developer portal is a client-rendered SPA and the Business Banking suite is advisor-onboarded.
+
+## Developer surfaces
+
+- [RBC External Developer Portal](https://developer.rbc.com/): register, browse self-serve APIs, get started, terms and conditions (client-rendered SPA).
+- [RBC Business Banking APIs](https://www.rbcroyalbank.com/business/api/index.html): partner-gated payment and informational APIs; onboarding via an RBC Advisor.
+- [RBC Open Source (GitHub)](https://github.com/rbc): the bank's open-source organization (mirrors/tooling, not first-party API SDKs).
+
+## Self-serve informational APIs (developer portal)
+
+- RBC Branch Locator API: postal-code / keyword search returning nearest RBC branch address and hours.
+- RBC Credit Card Catalog API: RBC credit card product details, rates, and fees.
+- RBC Minimum Down Payment API: minimum down payment for a home purchase price under Canadian mortgage rules.
+- RBC Amortization Schedule API: number of payments and amortization schedule for a mortgage.
+
+## Partner-gated Business Banking APIs (advisor onboarding)
+
+- RBC Move Money API (Interac e-Transfer): near real-time Interac e-Transfer transactions in Canada with optional enriched remittance information.
+- RBC Pay API: embed RBC payment capabilities into a company's financial systems.
+- RBC Balance and Transactions API: real-time account balance and transaction information.
+- RBC Tracking API: track the status of payments and transfers.
+- RBC Validation API: validate account or payment details before initiating a transaction.
+
+## Notes
+
+- Authentication: not publicly documented. Self-serve portal APIs are key-based on registration/approval; Business Banking APIs are enterprise/advisor-onboarded (partner-gated).
+- No public OpenAPI/Swagger, AsyncAPI, MCP server, SDK, CLI, sandbox, status page, or /.well-known/ discovery documents were found.
+- Corporate: [rbc.com](https://www.rbc.com/) · [Terms/Legal](https://www.rbc.com/legal/) · [Privacy & Security](https://www.rbc.com/privacysecurity/ca/index.html) · [Newsroom/Blog](https://www.rbc.com/newsroom/).

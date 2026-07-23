@@ -175,6 +175,8 @@ apis:
   - type: Documentation
     url: https://www.rbcroyalbank.com/business/api/index.html
 common:
+- type: DomainSecurity
+  url: security/rbc-domain-security.yml
 - type: Website
   url: https://www.rbc.com/
 - type: DeveloperPortal
@@ -191,6 +193,14 @@ common:
   url: https://www.rbc.com/legal/
 - type: PrivacyPolicy
   url: https://www.rbc.com/privacysecurity/ca/index.html
+- type: GettingStarted
+  url: https://developer.rbc.com/
+- type: SignUp
+  url: https://developer.rbc.com/
+- type: APIReference
+  url: https://developer.rbc.com/
+- type: LLMsTxt
+  url: llms/rbc-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
