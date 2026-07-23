@@ -1,0 +1,196 @@
+aid: rbc
+url: https://raw.githubusercontent.com/api-evangelist/rbc/refs/heads/main/apis.yml
+name: Royal Bank of Canada
+kind: company
+description: >-
+  Royal Bank of Canada (RBC) is Canada's largest bank by market capitalization and one of the
+  country's Big Six, a Schedule I domestic bank chartered under the federal Bank Act and publicly
+  traded (TSX/NYSE: RY) with headquarters in Toronto. RBC serves personal, commercial, wealth,
+  capital-markets, and insurance clients in Canada, the U.S., and internationally. It was the first
+  Canadian bank to launch a public API developer portal (developer.rbc.com — the "RBC External
+  Developer Portal"), which offers self-serve informational/utility APIs (branch locator, credit
+  card catalog, mortgage down-payment and amortization calculators) alongside a partner-gated
+  Business Banking API suite for corporate treasury integration (RBC Move Money via Interac
+  e-Transfer, RBC Pay, and Balance/Transactions, Tracking, and Validation APIs). RBC exposes no
+  first-party open-banking consumer-data API; consumer data sharing today is aggregator-based via
+  bilateral agreements (e.g. Plaid, Yodlee). Canada's federal Consumer-Driven Banking framework
+  (Budget 2024 / Fall Economic Statement 2024, overseen by the FCAC) is legislated but not yet
+  operational, so open finance in Canada remains voluntary and fragmented.
+accessModel:
+  pricing: enterprise
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Enterprise business APIs (advisor onboarding) + self-serve informational APIs on the developer portal
+  confidence: medium
+  source:
+  - authentication
+  - documentation
+  generated: '2026-07-23'
+  method: manual
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+tags:
+- Financial Services
+- Banking
+- Canada
+- Big Six
+- Payments
+- Interac
+- Open Banking
+- Developer Portal
+created: '2026-07-23'
+modified: '2026-07-23'
+specificationVersion: '0.19'
+apis:
+- aid: rbc:branch-locator-api
+  name: RBC Branch Locator API
+  description: >-
+    Self-serve informational API on the RBC External Developer Portal that accepts a postal code or
+    keyword search and returns the address and hours of operation of the closest RBC branch, or a
+    list of nearby branches.
+  humanURL: https://developer.rbc.com/
+  tags:
+  - Branch Locator
+  - Location
+  - Banking
+  properties:
+  - type: DeveloperPortal
+    url: https://developer.rbc.com/
+  - type: Documentation
+    url: https://developer.rbc.com/
+- aid: rbc:credit-card-catalog-api
+  name: RBC Credit Card Catalog API
+  description: >-
+    Self-serve informational API on the RBC External Developer Portal exposing RBC credit card
+    product details, rates, and fees through a programmatic interface.
+  humanURL: https://developer.rbc.com/
+  tags:
+  - Credit Cards
+  - Catalog
+  - Banking
+  properties:
+  - type: DeveloperPortal
+    url: https://developer.rbc.com/
+  - type: Documentation
+    url: https://developer.rbc.com/
+- aid: rbc:minimum-down-payment-api
+  name: RBC Minimum Down Payment API
+  description: >-
+    Self-serve calculator API on the RBC External Developer Portal that computes the minimum down
+    payment required for a given home purchase price under Canadian mortgage rules.
+  humanURL: https://developer.rbc.com/
+  tags:
+  - Mortgage
+  - Calculator
+  - Banking
+  properties:
+  - type: DeveloperPortal
+    url: https://developer.rbc.com/
+  - type: Documentation
+    url: https://developer.rbc.com/
+- aid: rbc:amortization-schedule-api
+  name: RBC Amortization Schedule API
+  description: >-
+    Self-serve calculator API on the RBC External Developer Portal that returns the number of
+    payments and amortization schedule for a mortgage given amount, amortization period, interest,
+    and payment details.
+  humanURL: https://developer.rbc.com/
+  tags:
+  - Mortgage
+  - Amortization
+  - Calculator
+  properties:
+  - type: DeveloperPortal
+    url: https://developer.rbc.com/
+  - type: Documentation
+    url: https://developer.rbc.com/
+- aid: rbc:move-money-interac-api
+  name: RBC Move Money API (Interac e-Transfer)
+  description: >-
+    Partner-gated Business Banking payment API that lets companies send near real-time Interac
+    e-Transfer transactions in Canada from an embedded, real-time service, with optional enriched
+    remittance/invoice information attached to the payment. Onboarding is via an RBC Advisor.
+  humanURL: https://www.rbcroyalbank.com/business/api/index.html
+  tags:
+  - Payments
+  - Interac
+  - Real-Time Payments
+  - Banking
+  properties:
+  - type: Documentation
+    url: https://www.rbcroyalbank.com/business/api/index.html
+- aid: rbc:rbc-pay-api
+  name: RBC Pay API
+  description: >-
+    Partner-gated Business Banking payment API for embedding RBC payment capabilities into a
+    company's financial systems. Documented on the RBC Royal Bank Business Banking APIs page;
+    onboarding is via an RBC Advisor.
+  humanURL: https://www.rbcroyalbank.com/business/api/index.html
+  tags:
+  - Payments
+  - Cards
+  - Banking
+  properties:
+  - type: Documentation
+    url: https://www.rbcroyalbank.com/business/api/index.html
+- aid: rbc:balance-and-transactions-api
+  name: RBC Balance and Transactions API
+  description: >-
+    Partner-gated Business Banking informational API providing real-time account balance and
+    transaction information for a company's RBC accounts. Onboarding is via an RBC Advisor.
+  humanURL: https://www.rbcroyalbank.com/business/api/index.html
+  tags:
+  - Account Management
+  - Transactions
+  - Balance
+  - Banking
+  properties:
+  - type: Documentation
+    url: https://www.rbcroyalbank.com/business/api/index.html
+- aid: rbc:tracking-api
+  name: RBC Tracking API
+  description: >-
+    Partner-gated Business Banking informational API for tracking the status of payments and
+    transfers within RBC business banking. Onboarding is via an RBC Advisor.
+  humanURL: https://www.rbcroyalbank.com/business/api/index.html
+  tags:
+  - Payment Tracking
+  - Payments
+  - Banking
+  properties:
+  - type: Documentation
+    url: https://www.rbcroyalbank.com/business/api/index.html
+- aid: rbc:validation-api
+  name: RBC Validation API
+  description: >-
+    Partner-gated Business Banking informational API for validating account or payment details
+    prior to initiating a transaction. Onboarding is via an RBC Advisor.
+  humanURL: https://www.rbcroyalbank.com/business/api/index.html
+  tags:
+  - Account Validation
+  - Verification
+  - Banking
+  properties:
+  - type: Documentation
+    url: https://www.rbcroyalbank.com/business/api/index.html
+common:
+- type: Website
+  url: https://www.rbc.com/
+- type: DeveloperPortal
+  url: https://developer.rbc.com/
+- type: Documentation
+  url: https://www.rbcroyalbank.com/business/api/index.html
+- type: GitHubOrganization
+  url: https://github.com/rbc
+- type: LinkedIn
+  url: https://www.linkedin.com/company/rbc
+- type: Blog
+  url: https://www.rbc.com/newsroom/
+- type: TermsOfService
+  url: https://www.rbc.com/legal/
+- type: PrivacyPolicy
+  url: https://www.rbc.com/privacysecurity/ca/index.html
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

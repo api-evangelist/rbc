@@ -1,0 +1,93 @@
+aid: rbc
+name: Royal Bank of Canada
+review:
+  question: Does RBC operate a public first-party developer portal, and does it publish downloadable API specifications or a consumer open-banking / FDX data-access API?
+  answer: partial
+  date: '2026-07-23'
+  reviewer: API Evangelist
+findings:
+  summary: |
+    Royal Bank of Canada operates a live, first-party developer portal at
+    https://developer.rbc.com/ (HTTP 200), branded the "RBC External Developer
+    Portal." RBC was the first Canadian bank to open a public API developer
+    portal. The portal is a React single-page application (a ~622-byte HTML
+    shell loading a JavaScript bundle) and does NOT publish a downloadable
+    OpenAPI/Swagger definition publicly — product catalogs and reference are
+    rendered client-side behind portal navigation, so no machine-readable spec
+    was harvestable. RBC's public/self-serve APIs on the portal are
+    informational/utility products (Branch Locator, Credit Card Catalog,
+    Minimum Down Payment, Amortization Schedule). RBC's higher-value APIs are a
+    partner-gated Business Banking suite documented on the corporate marketing
+    page https://www.rbcroyalbank.com/business/api/index.html (HTTP 200):
+    payment APIs (RBC Move Money via Interac e-Transfer, RBC Pay) and
+    informational APIs (Balance and Transactions, Tracking, Validation), all of
+    which require onboarding "by reaching out to your RBC Advisor" — i.e. no
+    self-serve keys, no public sandbox, no published auth flow.
+  publicApiPosture: |
+    RBC exposes NO first-party open-banking / consumer-data-access API and no
+    documented FDX participation. Consumer financial-data sharing today is
+    aggregator/screen-scraping-based via bilateral agreements (Plaid, Yodlee
+    are reported RBC data-sharing partners). Canada's federal Consumer-Driven
+    Banking framework (Budget 2024 / Fall Economic Statement 2024, overseen by
+    the Financial Consumer Agency of Canada, FCAC) is legislated but not yet
+    operational; RBC publishes no operational CDB endpoint. US Section 1033 is
+    not applicable to this Canadian Schedule I entity.
+  specProvenance: none-harvestable
+  openapiHarvested: false
+  fdxParticipation: false
+  section1033Posture: not-applicable-canadian-entity
+  authModel: |
+    No public authentication documentation was retrievable. Portal utility APIs
+    appear key-based on registration; Business Banking APIs are enterprise/
+    advisor-onboarded (partner-gated), consistent with client-credentials/mTLS
+    corporate integration but not publicly documented. Not confirmable from
+    public sources.
+  charter: |
+    Schedule I domestic bank under the Canadian Bank Act; Big Six; largest
+    Canadian bank by market capitalization; publicly traded (TSX/NYSE: RY);
+    headquartered in Toronto.
+  transports:
+  - protocol: REST
+    scheme: https
+    documented: true
+    note: RBC's APIs are documented as HTTPS REST services. No base URL is published publicly on the developer portal or the business API page.
+  - protocol: WebSocket
+    scheme: wss
+    documented: false
+    note: No WebSocket/streaming API is documented.
+  probes:
+  - url: https://developer.rbc.com/
+    status: 200
+    note: RBC External Developer Portal — React SPA shell; meta description confirms it empowers developers to integrate with RBC's APIs and services. No downloadable spec.
+  - url: https://www.rbcroyalbank.com/business/api/index.html
+    status: 200
+    note: Business Banking APIs page; lists Payment APIs (Move Money via Interac e-Transfer, RBC Pay) and Informational APIs (Balance and Transactions, Tracking, Validation); onboarding via RBC Advisor.
+  - url: https://www.rbc.com/
+    status: 200
+    note: Corporate website.
+  - url: https://github.com/rbc
+    status: 200
+    note: Verified GitHub organization "Royal Bank of Canada" (bio "Open Source @ RBC", 68 public repos).
+  - url: https://developer.rbc.com/api
+    status: 404
+    note: No server-side API/products routes; portal is client-rendered only.
+sources:
+- url: https://developer.rbc.com/
+  type: DeveloperPortal
+  note: Live RBC External Developer Portal (SPA).
+- url: https://www.rbcroyalbank.com/business/api/index.html
+  type: Documentation
+  note: Business Banking APIs product page (partner-gated).
+- url: https://www.newswire.ca/news-releases/rbc-first-canadian-bank-to-open-an--api-developer-portal-677379753.html
+  type: PressRelease
+  note: RBC announced as the first Canadian bank to open an API developer portal; original portal products (branch locator, credit card catalog, down payment, amortization).
+- url: https://github.com/rbc
+  type: GitHubOrganization
+  note: Verified via GitHub API — Organization, name "Royal Bank of Canada".
+actions:
+  openapiPath: null
+  reason: |
+    No public OpenAPI/Swagger definition is downloadable from RBC's developer
+    portal or business API page; both are HTML/SPA only and the Business
+    Banking suite is advisor-onboarded. Identity plus honest documented-API
+    pointers were captured; no spec could be harvested verbatim.
