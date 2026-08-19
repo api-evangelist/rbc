@@ -41,7 +41,7 @@ tags:
 - Developer Portal
 created: '2026-07-23'
 modified: '2026-07-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
 - aid: rbc:branch-locator-api
   name: RBC Branch Locator API
