@@ -31,6 +31,15 @@ accessModel:
   method: manual
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
+- Financial-Services
+- Banking
+- Canada
+- Big Six
+- Payments
+- Interac
+- Open Banking
+- Developer Portal
+tags_raw:
 - Financial Services
 - Banking
 - Canada
@@ -141,6 +150,11 @@ apis:
     transaction information for a company's RBC accounts. Onboarding is via an RBC Advisor.
   humanURL: https://www.rbcroyalbank.com/business/api/index.html
   tags:
+  - Account Management
+  - Transaction
+  - Balances
+  - Banking
+  tags_raw:
   - Account Management
   - Transactions
   - Balance
