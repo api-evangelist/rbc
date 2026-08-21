@@ -23,3 +23,2307 @@ hosts:
     status: 404
   - path: /.well-known/openid-configuration
     status: 404
+- host: https://6f00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tn6f00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftp6f00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://6g00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tn6g00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftp6g00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://salesforcesandboxcert.cy00.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://spxgroup2010.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter10.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-dev-96430.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hpcgjh.00025.me.840.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://liveperson-client-prod.os50.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://liveperson-client-dev.os50.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq.dt00.qa.17290.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-prodtyqc01-67890.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-qaxyqc01-67890.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.emr.digstream-etlloader.dms.yul.rbc02.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://jupyterhub.master.emr.digstream-etlloader.dms.yul.rbc02.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hue.master.emr.digstream-etlloader.dms.yul.rbc02.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zeppelin.master.emr.digstream-etlloader.dms.yul.rbc02.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.admin-web.ofi-admin-web.avion.yul.rbc19.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.metabase.ofi-metabase.avion.yul.rbc19.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.public-api.ofi-api.avion.yul.rbc19.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.admin-api.ofi-api.avion.yul.rbc19.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://soteria.services.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.soteria.services.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.fargate.soteria-data-catalog.ccpt.yul.services.prod.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://jupyterhub.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hue.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zeppelin.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.admin-web.ofi-admin-web.avion.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://nonp.metabase.ofi-metabase.avion.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.public-api.ofi-api.avion.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.admin-api.ofi-api.avion.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://nonp.metabase.metabase-test.avion.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://nonp.metabase.metabase-test.ampli-app.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-tu80-private-uat.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-develop-tu80-private-uat.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-tu80-private-dev.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-admin-web-develop-tu80-private-dev.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-develop-tu80-private-dev.yul.rbc19.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://soteria.services.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.soteria.services.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://nonp.fargate.soteria-data-catalog.ccpt.yul.services.nonp.c0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://backend-cdj0-private-prod.yul.rbc103.prod.iac0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://backend-cdj0-private-uat.yul.rbc103.nonp.iac0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://backend-cdj0-private-dev.yul.rbc103.nonp.iac0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.dmsmarketingcreative.marketingcreative.dms.yul.rbc41.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://jupyterhub.master.emr.digstream-etlloader.dms.yul.rbc02.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hue.master.emr.digstream-etlloader.dms.yul.rbc02.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zeppelin.master.emr.digstream-etlloader.dms.yul.rbc02.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.yodlee-api.ofi-api.avion.yul.rbc19.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://master.api.ofi-images-api.avion.yul.rbc19.prod.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dev.dmsmarketingcreative.marketingcreative.dms.yul.rbc41.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://jupyterhub.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hue.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zeppelin.dev.emr.digstream-etlloader.dms.yul.rbc02.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://public-ingress.yul.rbc65.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.yodlee-api.ofi-api.avion.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.images-api.ofi-api.avion.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://develop.api.ofi-images-api.avion.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://public-ingress.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://avion-media-tu80-public-uat.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://yodlee-webhook-tu80-public-uat.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://avion-media-tu80-public-dev.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://yodlee-webhook-tu80-public-dev.yul.rbc19.nonp.pc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://public-ingress.yul.rbc104.prod.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-tu80-public-prod.yul.rbc125.prod.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://yodlee-webhook-tu80-public-prod.yul.rbc125.prod.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-tu80-public-uat.yul.rbc125.nonp.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://yodlee-webhook-tu80-public-uat.yul.rbc125.nonp.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ofi-images-api-tu80-public-dev.yul.rbc125.nonp.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://yodlee-webhook-tu80-public-dev.yul.rbc125.nonp.iapc0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hsbc-acct-list-sign.fde0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://api-fdx-uat.fde0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hsbc-acct-list.fde0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsie0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://getbor0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://fsu0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://iam-rob-prod.z3y0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://iam-rob-uat.z3y0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://liveperson-client-pushnotifications.1hz0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://liveperson-client-pushnotifications-test.1hz0.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://edelp1-1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://edelr1-1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vpn-sing-1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vlh0-inovate-01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uaw0-cc-partner-app-01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-sandbox-190001.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zow0-dtc-05002201.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arrow-dtc-05002201.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-dev-900601.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqqa01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvasmagcc01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvasmascc01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uagrbad01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqprod01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsie01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://appfez0.restcca.jwt.pbsigning01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://fvpn01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mvpn01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rhg0p01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ulsftpp01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rf20-smime-test01.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-prod-900611.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter11.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-qa-96431.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-qarbcuxvjy0t01-67891.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://apigwh-ca1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ratora1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ratorb1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnbwebex-sbc-na-c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ppf0-vnet.prod.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://af-on-azure.eng.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-o3v0-private-dev.aksha.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-dev-o3v0-private-dev.aksha.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-o3v0-private-dev.westus2.aks.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-dev-o3v0-private-dev.westus2.aks.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-o3v0-private-dev.westcentralus.aks.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnb-single-window-webui-dev-o3v0-private-dev.westcentralus.aks.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ppf0-dev-vnet.nonp.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ppf0-dev-vnet.c1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://olbgcc1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://olbocc1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cobgrid1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ndesmobile1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ndesmachine1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arbortrafficif1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ppubepoah1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://m1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccecomgtm1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://occecomgtm1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cnbwebex-sbc-na-n1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webcon1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gproco1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://oproco1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://video1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclyncowap1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gateway-vip1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arborcollector1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://weballiancecss1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gess1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://weballiancects1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://apigwh-us1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ws1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://olbist1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytceu1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://av1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://torcmmqdv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://torcmmqpv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tormqpv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://torcmmqqv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tormqqv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://torcmmqtv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tormqtv1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mx1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://symph-pagerduty1.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://edelr1-2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vpn-sing-2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://can4865dcdmno002.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cimnlp.00007.sf.702.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://j32tav.00000.sp.702.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://proco902.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqqa02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqprod02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://grbmtapp02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uhtwit02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mbkdev02.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibm-dt00-qa-90012.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter12.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://se143332.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vrd0-prod-96432.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-qa-63532.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mrkdlvaiaas3532.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00000.br.392.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00117.br.392.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-dev-63492.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mrkdlvaiaas3492.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wmc2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cobgrid2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srd2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ndesmobile2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ndesmachine2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arbortrafficif2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webcon2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sip2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gateway-vip2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arborcollector2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://as2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://xas2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mqxas2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mqxcs2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://weballiancecss2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://weballiancects2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ws2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcwmc--wmcsfist2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytceu2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://av2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://chequeimagev2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.chequeimagev2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mx2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx2.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmanage-6b2cfa1b-5747-492a-a5c7-d75e80cc115d-3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vpn-sing-3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc03.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc03.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uambkd03.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mvpn03.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-ykk0-dev-80313.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter13.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00075.me.533.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytceu3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cssp001-www3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mx3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx3.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vpn-sing-4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://etapi-sign-key-ca000003-004.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-ist-63704.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mrkdlvaiaas3704.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqqa04.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc04.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc04.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://njsmqprod04.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsie04.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter14.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cagwtopubliccaclient2024.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.cagwtopubliccaclient2024.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00082.br.534.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00083.br.534.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00019.me.344.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00000.br.344.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00111.br.344.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnp4h4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpp4h4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccsecurebipa-vlan4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccsecurebipb-vlan4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uspkisp4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ranet4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytceu4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://occ-www4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://iris.www4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx4.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vpn-sing-5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://etapi-sign-key-ca000003-005.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-qa-900605.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-ist-63705.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mrkdlvaiaas3705.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc05.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc05.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cagwtopubliccaclientfeb2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uschiwebexsbc2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sbcprodtrustgcc2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sbcprodtrustscc2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://usnjwebexsc2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cagwtopubliccaclient2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.cagwtopubliccaclient2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cagwtopublicentrustcaclient2025.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vjy0-devxyqc03-12345.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-dt00-prod-28685.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnp5h5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpp5h5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx5.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://atlassian.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://etapi-sign-key-ca000003-006.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesagcc06.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pvaesascc06.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uschiwebexsbccxe2026.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://usnjwebexsbccxe2026.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://g6cadl.00022.br.756.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ceq4ev.00398.br.756.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ns6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tormqdv6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx6.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-ist-900607.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uschiwebexsbc2027.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://usnjwebexsbc2027.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna7.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter7.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www7.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mx7.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx7.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsie08.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cy00-testkey2-rsa2048.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-prod-63148.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccsecurebipa-vlan8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccsecurebipb-vlan8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dc1-www8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dc2-www8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx8.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-dt00-prod-71439.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-u190-prod-63149.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ibmmq-vrd0-prod-99649.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://se150849.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://hpcgjh.00026.me.999.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panoramarouter9.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccecomg01a.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dtc-nscc-f7d5002a.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://zow0-dtc-nscc-f7d5002a.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://arrow-dtc-nscc-f7d5002a.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://fca.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://remote-asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://extvpn-asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mta.asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cloud.asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://image.asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://click.asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://view.asia.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://apigw-ma.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://api-gateway-ma.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://panorama.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://silvercma.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mytcna.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ssoa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cpa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tpa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcwmc--qa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://escg--qa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://credit-qa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mail-content.rbccollinfo-cqa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://consumer-content.rbccollinfo-cqa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mailcontent.rbccollinfo-cqa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mdxt-connect-dmzqa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcclabmraedgecluster.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclabmraedgecluster.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcclabwbxmraedge-1-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclabwbxmraedge-1-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcclabwbxmraedge-2-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclabwbxmraedge-2-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcclabwbxmraedge-3-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclabwbxmraedge-3-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcclabwbxmraedge-4-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://scclabwbxmraedge-4-int.labmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccmraedgecluster-1.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccmraedgecluster-1.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccmraedgecluster-2.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccmraedgecluster-2.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcmraedgecluster.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcmraedgecluster.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokmraedgecluster.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slomraedgecluster.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpmraedgecluster.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-1-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-2-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-3-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-4-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-5-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-5-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-6-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-6-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-7-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-7-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-8-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-7-int.prodmra.rbc.com.gccwbxmraedge-8-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-8-int.prodmra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://qra.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prd.getcvm-enc.vts.visa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cte.getcvm-enc.vts.visa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mqp0-restccarsa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pcbdata.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcinsightbeta.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://i1.rbcinsightbeta.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://i2.rbcinsightbeta.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://www.rbcinsightbeta.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wa.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsxe0.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wsxe1.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://brrd1.cnb.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://brru1.cnb.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://brrq.cnb.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://brruat.cnb.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://fmc.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccfmc.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://orbcxnet17-e2-pri.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcitrust1.plink.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcitrust2.plink.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://lfm.symcor.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prod-uco0-xpress.fis.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://uat.xpress.fis.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://fmc-clu.eb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://web.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://symph-ib.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://symph-test-ib.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcwmcqashielddevmb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://spb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://apisb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcflosumtestsb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcflosumdevsb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mcphotohub.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mxb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmxb.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://digstream-c.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gcc-webc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccprodwbxmraedge-1.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccprodwbxmraedge-1.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccprodwbxmraedge-2.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccprodwbxmraedge-2.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://collab-edge.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-1-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-2-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-3-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://slowbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpwbxmraedge-4-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-5-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-5-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-6-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-6-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-7-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-7-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://gccwbxmraedge-8-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sccwbxmraedge-8-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://prdcprodwbxmraedge-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://srdcprodwbxmraedge-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wokprodwbxmraedge-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sloprodwbxmraedge-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sgpprodwbxmraedge-ext.mraprodrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://savelikerbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://economisezcommerbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://apigw-qat.sterbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pprodsplunkingestionsterbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://demanderrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://askforrbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://denver-cloudsbc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cdbcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnbcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpbcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnistbccc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpistbccc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ue90-restccarsa-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://remote-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webmail-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cdssl-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sso-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webft-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webftserv-gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mrbi1.gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mthin1.gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3m.gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://jrnl1gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx1gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx2gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx3gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx4gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx5gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx6gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://vmx7gcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wmcgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cdgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tngcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wasgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tw00.wasgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tw00pyramid.irisgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://imsgcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://creditidentvaliditygcc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://registerid-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://procurement.registerid-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://remote-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webmail-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cdssl-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://extvpn-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://sso-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webft-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webftserv-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://survey-occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mrbi1.occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mthin1.occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mrbi2.occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3mthin2.occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://p3m.occ.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wmcocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cdocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://wasocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tw00pyramid.irisocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tnistocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpistocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://creditidentvalidityocc.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcgam.apps.ocp.saifg.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcgam-qat.apps.ocp.saifg.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://chequeimagev2-dev.apps.ocp.saifg.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://rbcgam-dev.apps.ocp.saifg.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://forge-cdn.atlassian.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webtrigger.atlassian.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://services.atlassian.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ombudsman.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://pql0.dtnpoloan.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://preprod.supersan.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://webforwarder-apex-en.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://cloud.phn.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://image.phn.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://click.phn.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://view.phn.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://dain.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://tndain.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://ftpdain.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://mqdain.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+- host: https://login.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
