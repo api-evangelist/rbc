@@ -2327,3 +2327,7 @@ hosts:
   documents:
   - path: /.well-known/security.txt
     status: 404
+- host: chequeimagev1-ocp-tw00-private-prod.apps.ocp-gcc-g1.fg.rbc.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
