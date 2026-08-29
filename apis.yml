@@ -16,6 +16,17 @@ description: >-
   bilateral agreements (e.g. Plaid, Yodlee). Canada's federal Consumer-Driven Banking framework
   (Budget 2024 / Fall Economic Statement 2024, overseen by the FCAC) is legislated but not yet
   operational, so open finance in Canada remains voluntary and fragmented.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: enterprise
   onboarding: approval
