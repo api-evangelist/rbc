@@ -1,0 +1,18 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/rbc/integrations
+- https://zapier.com/apps/royal-bank-of-canada/integrations
+- https://n8n.io/integrations/rbc/
+- https://composio.dev/toolkits/rbc
+- https://monid.ai/tools/rbc
+checked:
+- https://composio.dev/toolkits/rbc
+- https://monid.ai/tools/rbc
+- https://n8n.io/integrations/rbc/
+- https://zapier.com/apps/rbc/integrations
+- https://zapier.com/apps/royal-bank-of-canada/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
