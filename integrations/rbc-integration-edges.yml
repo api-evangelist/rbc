@@ -26,6 +26,8 @@ checked:
 - https://www.canada.ca/en/financial-consumer-agency.html
 - https://www.consumerfinance.gov/compliance/supervision-examinations/institutions/
 - https://www.nmlsconsumeraccess.org/
+- https://www.amf-france.org/fr/espace-epargnants/proteger-son-epargne/listes-blanches
+- https://www.regafi.fr/
 summary: null
 marketplace_apps: []
 edges:
@@ -191,4 +193,40 @@ edges:
     identity_source: wikidata P856 (labelled provenance step; Kin 2026-10-15 decision 1)
   detected_by: sweep-consumer-lending-licensing.py
   first_seen: '2026-10-21'
+- partner_name: REGAFI (ACPR / Banque de France register of authorised financial firms)
+  partner: null
+  partner_match: register
+  type: register
+  channel: regulator-register
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://www.regafi.fr/
+  category: French financial supervisory authorisation (ACPR, REGAFI)
+  contract_reference:
+    register: REGAFI (ACPR / Banque de France register of authorised financial firms)
+    spec_file: null
+    standard: null
+    role: acpr-authorised-third-country-branch
+    registrations:
+    - registered_name: ROYAL BANK OF CANADA
+      role: acpr-authorised-third-country-branch
+      licences:
+      - Établissement de Crédit (Banque)
+      register_country: CA
+      matched_domain: rbc.com
+      matched_by: domain+verified
+      register_id: '76815'
+      lei: 5493008WOGQAQLWW1073
+      siren: '317761542'
+      since: '2018-10-05'
+      brands:
+      - RBC Paris Branch
+      identity: wikidata Q735261 'Royal Bank of Canada' P856 https://rbc.com
+    signal_note: 'participation only: a supervisory authorisation / passport notification; no API conformance is
+      published by this register'
+    detected_by: sweep-france-regafi-acpr.py
+    detected: '2026-10-22'
+    identity_source: wikidata P856 (LEI P1278 or name; labelled provenance step; Kin 2026-10-15 decision 1)
+  detected_by: sweep-france-regafi-acpr.py
+  first_seen: '2026-10-22'
 templates: []
